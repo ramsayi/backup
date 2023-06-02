@@ -1,0 +1,165 @@
+- class_name: 友情链接
+  class_desc: 若知四海皆兄弟，何处相逢非故人。
+  link_list:
+    - name: Ramsayi's Blog
+      link: https://ramsayi.github.io
+      avatar: https://i.loli.net/2021/08/29/y9prTaRZugj8QBb.jpg
+      descr: 满堂花醉三千客，一剑霜寒十四州。
+    - name: SWCLUB
+      link: https://swclub.gitee.io
+      avatar: https://swclub.gitee.io/img/avatar.png
+      descr: This is my Blog
+    - name: 顺顺的Home
+      link: https://xiaoshun6.github.io
+      avatar: https://xiaoshun6.github.io/medias/logo.png
+      descr: 专注游戏模组制作
+    - name: 李韩の博客
+      link: https://lhlhla.github.io
+      avatar: https://cdn.jsdelivr.net/gh/lhlhla/gallery/others/lihan.png
+      descr: 豫章故郡，洪都新府。
+- class_name: 中国矿业大学校友
+  class_desc: 中国矿业大学校友
+  link_list:
+    - name: Haorical
+      link: https://haorical.xyz/
+      avatar: https://i.loli.net/2021/09/23/z8wHYnyGsaSQtfl.jpg
+      descr: 一分耕耘，一分收获
+    - name: Reta
+      link: https://retamev.github.io
+      avatar: https://retamev.github.io/img/avatar.jpg
+      descr: 浮天水送无穷树
+- class_name: 友情链接
+  class_desc: 欢迎交换友链
+  link_list:
+    - name: chrelyonly
+      link: https://chrelyonly.cn
+      avatar: https://cdn.jsdelivr.net/gh/chrelyonly/cdn-speed@master/help/20210818143927.png
+      descr: 谢谢你点开了我的网站 ^_^
+    - name: Aker
+      link: https://akersama.gitee.io/
+      avatar: https://img.gmz88.com:4433/uploadimg/image/20190109/15470268145c35c17ed9a9d9.70913881.jpeg
+      descr: 一个孤独的大帅比
+    - name: 瓦猫杂货铺
+      link: https://bubao.github.io
+      avatar: https://cdn.jsdelivr.net/gh/bubao/picgo_db_tiny/logo/xiaologo.svg
+      descr: nodejs javascript 读书 观影
+    - name: 被门夹过的核桃还补脑吗
+      link: https://xjj.pub
+      avatar:
+      descr: 博客，吐槽
+    - name: liangcheng
+      link: http://blog.mykernel.cn/
+      avatar: http://myapp.img.mykernel.cn/favicon.png
+      descr: 学习运维 python 前端
+    - name: Dejavu's Blog
+      link: https://www.dejavu.moe
+      avatar: https://sdn.geekzu.org/avatar/9d04cd0c32b56de8e4aa035420f29034
+      descr: 与君初相见，犹如故人归
+    - name: IZW99s
+      link: https://dy1320.top
+      avatar: https://dy1320.top/images/rny/yu.JPG
+      descr: 欲买桂花酒、终不似少年游
+    - name: kaiboshi
+      link: https://kaiboshi.gitee.io/
+      avatar: https://cdn.jsdelivr.net/gh/kaiboshi/kaiboshi.github.io/medias/logo66.png
+      descr: 做一个有梦想的咸鱼
+    - name: 青葱雅亭
+      link: https://www.itciraos.cn
+      avatar: https://www.itciraos.cn/mysource/avatar.webp
+      descr: DARE & DO
+    - name: 青春永不落慕
+      link: https://qcyblm.gitee.io/
+      avatar: https://qcyblm.gitee.io/vuepress/favicon.ico
+      descr: 收集软件和记录网络学习笔记
+    - name: Ethan.Tzy
+      link: https://ethant.top/
+      avatar: https://cdn.jsdelivr.net/gh/tzy13755126023/BLOG_SOURCE/theme_f/avater.jpg
+      descr: 学习与交流的乐园,希望能和你成为好朋友.
+    - name: 山岳库博
+      link: https://kmar.top/
+      avatar: https://cdn.jsdelivr.net/gh/EmptyDreams/resources/qqavatar.jpg
+      descr: 开发学习启发性二刺猿
+    - name: kaiboshi
+      link: https://kaiboshi.gitee.io/
+      avatar: https://cdn.jsdelivr.net/gh/kaiboshi/kaiboshi.github.io/medias/logo66.png
+      descr: 做一个有梦想的咸鱼
+    - name: DearXuan
+      link: https://www.dearxuan.top
+      avatar: https://cdn.jsdelivr.net/gh/dearxuan7392/picture/webinfo/logo.png
+      descr: 编程,算法
+    - name: Kindle deepのBlog
+      link: https://kindle-deep.github.io
+      avatar: https://cdn.jsdelivr.net/gh/Kindle-deep/image@main/RoundCorner.png
+      descr: Nothing is impossible to a willing heart.
+    - name: 猫不可言
+      link: https://blog.lmiml.com
+      avatar: https://blog.lmiml.com/wp-content/uploads/2021/11/3728e7bda4b4dc60a454079bb1c3bba6.jpg
+      descr: 崇尚专注，追求极致！
+    - name: Bug小窝
+      link: https://www.errof.com
+      avatar: https://www.errof.com/images/logo.jpg
+      descr: 残萤栖雨露，早雁拂金河
+    - name: yiyun's Blog
+      link: https://moeci.com
+      avatar: https://moeci.com/images/avatar.png
+      descr: The stupid one is me
+    - name: Sulv’s Blog
+      link: https://www.sulvblog.cn
+      avatar: https://www.sulvblog.cn/img/Q.gif
+      descr: 一个记录技术、阅读、生活的博客
+    - name: vFREE&博客
+      link: http://vfree.ltd/
+      avatar: http://vfree.ltd/other/team.png
+      descr: CTF&网络安全
+    - name: 橙子木的小木屋
+      link: https://blog.ypa.moe
+      avatar: https://blog.ypa.moe/hotlink-ok/images/avatar.png
+      descr: Internet, Electric, Amateur Radio
+    - name: Gahotx
+      link: https://gahotx.cn/
+      avatar: https://npm.elemecdn.com/gahotx-cdn@1.0.13/photo/cat.jpg
+      descr: Don't repeat yourself
+    - name: Aohui
+      link: https://aohuiliu.fun
+      avatar: https://www.aohuiliu.fun/images/avatar.jpeg
+      descr: 记录学习，记录生活。
+    - name: 壳壳博客
+      link: https://kkok.cc
+      avatar: https://img.kkok.cc/wp-content/uploads/2021/11/logo2x2021.png
+      descr: 壳壳博客是一个关注自媒体创业者，IT科技资讯，软件资源的导航博客，每天几分钟科技资讯一箩筐。
+    - name: 葱苓の小窝
+      link: https://www.itciraos.cn
+      avatar: https://www.itciraos.cn/mysource/avatar.webp
+      descr: DARE & DO
+    - name: 一隅博客
+      link: https://www.arro.cn
+      avatar: https://www.arro.cn/ad/logo.png
+      descr: 学知识，长知识
+    - name: 九仞之行
+      link: https://styunlen.cn/
+      avatar: https://styunlen.cn/wp-content/uploads/2021/06/hello.png
+      descr: 严于律己，宽以待人，深自警省，讷言敏行
+    - name: afosne
+      link: http://afosne.xyz
+      avatar: https://x.jscdn.host/release/ucode-x/source/Sakurairo_Vision/@2.4/basic/topavatar.png
+      descr: 这个域名是免费的，网站几天前才建好后面会改成
+    - name: Notes Hut
+      link: https://blog.attainment.cn
+      avatar: https://bed.attainment.cn/img/avatar.png
+      descr: 记录美好生活
+    - name: 唐先森の博客
+      link: https://tzy1997.com/
+      avatar: https://bu.dusays.com/2022/05/02/626f92e193879.jpg
+      descr: 2022年的理想开始实现了吗？
+    - name: 大默无言
+      link: https://idamor.cn
+      avatar: https://img.idamor.cn/logo.svg
+      descr: 表达所思所想、记录日常点滴
+    - name: Zerobiubiu
+      link: https://zerobiubiu.github.io/blogs/
+      avatar: https://zerobiubiu.github.io/blogs/images/avatar.png?v=1651642402210
+      descr: 这里是Zerobiubiu的博客
+    - name: 苏晨博客
+      link: https://blog.sxchl.cn
+      avatar: https://www.sxchl.cn/bklogo.png
+      descr: 一个疯狂的博客
